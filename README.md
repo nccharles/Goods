@@ -4,9 +4,9 @@ The Goods App is an easy to use e-commerce app with a selection of suppliers of 
 #### Development Setup
 To start this project, install the required modules and dependencies locally using yarn:
 ##### Usage Example
-##### git Clone this [Repository](https://github.com/nccharles/Pro-Lite-API.git)
+##### git Clone this [Repository](https://github.com/nccharles/Goods.git)
 ```
-cd **Goods**
+cd Goods
 npm install
 npm start
 ``` 
